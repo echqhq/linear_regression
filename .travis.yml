@@ -1,10 +1,3 @@
 language: python
 python:
-  - 3.6
-install:
-  - pip install -e .
-  - pip install pytest-cov codecov
-script:
-  - pytest tests --cov=linear_regression_echqhq tests
-after_success:
-  - codecov
+  - "3.6"
