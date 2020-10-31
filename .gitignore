@@ -1,0 +1,12 @@
+*
+!*/
+!.gitignore
+!*.py
+!*.bat
+!*.sh
+!*.txt
+!*.md
+!*.yml
+!*.ipynb
+venv/*
+.idea/*
